@@ -6,7 +6,7 @@ A simple chrome extension that allows the user to write emails
 # How to install and run the Chrome Extension
 
 First the credentials must be added so it can send emails:
-1. Go to the src folder and paste the SERVICE_ID, TEMPLATE_ID and USER_ID (given by email) inside the curly brackets of the Credentials constant.
+1. Go to the src folder and paste the SERVICE_ID, TEMPLATE_ID and USER_ID (given by email) inside the curly brackets of the Credentials jsx file.
 2. Save the file.
 
 After that:
